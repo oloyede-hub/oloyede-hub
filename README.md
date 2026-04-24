@@ -1,6 +1,6 @@
 # Hi, I'm Sodiq Oloyede 👋
 
-Final year Medical Radiography student transitioning into 
+Medical Radiographer transitioning into 
 AI/ML Engineering.
 
 My niche: combining clinical medical imaging knowledge with 
